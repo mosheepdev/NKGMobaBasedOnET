@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3434512112
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44014ec81e9cb7701351bdaa97c1aa70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1819b6d7023081722f96d91296ec6716
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/UI/Altas.prefab
+Dependencies: []

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2633742005
+CRC: 3485240267
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -18,5 +18,5 @@ AssetBundleManifest:
       Name: unit.unity3d
       Dependencies: {}
     Info_5:
-      Name: uilobby.unity3d
+      Name: altas.unity3d
       Dependencies: {}
