@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3955115086
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: map.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: config.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: code.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: unit.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: altas.unity3d
+      Dependencies: {}
