@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 389443597
+CRC: 840157149
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d222eb76dc89bd814cbf627a0bb8a25e
+    Hash: 6b1d1842fe276e60fd56be8b577b9951
   TypeTreeHash:
     serializedVersion: 2
     Hash: 63c85e19b96498059f97de1aee259866
@@ -44,5 +44,6 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 Assets:
+- Assets/Res/Sprites/Login.png
 - Assets/Bundles/UI/UILogin.prefab
 Dependencies: []

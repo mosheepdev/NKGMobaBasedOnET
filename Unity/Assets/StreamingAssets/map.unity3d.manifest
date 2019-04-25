@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 210639713
+CRC: 1109229440
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 652563c59e2c77dfdf82dbe4cda8a295
+    Hash: 0e0d46262a918378a367eca82d7b1031
   TypeTreeHash:
     serializedVersion: 2
     Hash: fd871c1e5844740fac1f06580c9b1e16
@@ -57,4 +57,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Scenes/Map.unity
-Dependencies: []
+Dependencies:
+- D:/Study/GameProject/NKGMobaBasedOnET/MKGMobaBasedOnET/Unity/../Release/PC/StreamingAssets/unit.unity3d

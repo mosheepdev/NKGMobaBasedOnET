@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1212771382
+CRC: 2768507107
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a7e1bad762646e251c654d3881bf2c5c
+    Hash: 7a5b5d1fd6e60b5f84e6d773b1d4bbc7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9f234760192d370460b9a81a17881f85
@@ -36,5 +36,10 @@ ClassTypes:
 - Class: 137
   Script: {instanceID: 0}
 Assets:
+- Assets/Res/Models/Bingshuangjulong_001/Bingshuangjulong_001.controller
+- Assets/Res/Models/Bingshuangjulong_001/Bingshuangjulong_001.FBX
+- Assets/Res/Units/BigDrango.prefab
 - Assets/Bundles/Unit/Unit.prefab
+- Assets/Res/Models/Bingshuangjulong_001/show.FBX
+- Assets/Res/Models/Bingshuangjulong_001/Bingshuangjulong_001.tga
 Dependencies: []

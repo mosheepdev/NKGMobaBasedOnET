@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3893718326
+CRC: 1476781322
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3079bc1c0b707de04b9b02d5375a4176
+    Hash: e5c66b87fbd98a05bc20b6f11b4a960d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1819b6d7023081722f96d91296ec6716
+    Hash: 0f261265f2990d1b6115c7ccd73d2348
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,6 +19,10 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
 - Class: 115
   Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
 Assets:
 - Assets/Bundles/UI/Altas.prefab
-Dependencies: []
+- Assets/Res/Sprites/Update.png
+Dependencies:
+- D:/Study/GameProject/NKGMobaBasedOnET/MKGMobaBasedOnET/Unity/../Release/PC/StreamingAssets/uilogin.unity3d
