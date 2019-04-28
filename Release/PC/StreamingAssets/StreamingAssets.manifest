@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 997094447
+CRC: 838904560
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -22,8 +22,8 @@ AssetBundleManifest:
       Name: altas.unity3d
       Dependencies: {}
     Info_6:
-      Name: fuilogin_atlas0.unity3d
+      Name: fuilogin_fui.unity3d
       Dependencies: {}
     Info_7:
-      Name: fuilogin_fui.unity3d
+      Name: fuilogin.unity3d
       Dependencies: {}
