@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 838904560
+CRC: 602680574
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -13,17 +13,17 @@ AssetBundleManifest:
       Name: code.unity3d
       Dependencies: {}
     Info_3:
-      Name: uilogin.unity3d
-      Dependencies: {}
-    Info_4:
       Name: unit.unity3d
       Dependencies: {}
-    Info_5:
-      Name: altas.unity3d
-      Dependencies: {}
-    Info_6:
+    Info_4:
       Name: fuilogin_fui.unity3d
       Dependencies: {}
-    Info_7:
+    Info_5:
       Name: fuilogin.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: fuilobby.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: fuilobby_fui.unity3d
       Dependencies: {}
