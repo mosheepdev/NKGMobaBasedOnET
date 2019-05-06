@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 602680574
+CRC: 3854203698
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -26,4 +26,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_7:
       Name: fuilobby_fui.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: fuidialog.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: fuidialog_fui.unity3d
       Dependencies: {}
