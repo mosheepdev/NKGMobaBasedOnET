@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3267596176
+CRC: 2390539385
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8281d4e5aa0a9e1d175aa47d15519ce9
+    Hash: 3fc5df5ddb82283d210045a4346e5e16
   TypeTreeHash:
     serializedVersion: 2
-    Hash: faeaaa2c2a90a7d44c28a49a3e0e2779
+    Hash: 6aa6df78c7fa42c4ca6a025bbb698076
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,17 +29,9 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 64
   Script: {instanceID: 0}
-- Class: 74
-  Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
 - Class: 89
-  Script: {instanceID: 0}
-- Class: 90
-  Script: {instanceID: 0}
-- Class: 91
-  Script: {instanceID: 0}
-- Class: 95
   Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
@@ -51,13 +43,10 @@ ClassTypes:
   Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 137
-  Script: {instanceID: 0}
 - Class: 157
   Script: {instanceID: 0}
 - Class: 258
   Script: {instanceID: 0}
 Assets:
 - Assets/Scenes/Map.unity
-Dependencies:
-- D:/Study/GameProject/NKGMobaBasedOnET/MKGMobaBasedOnET/Unity/../Release/PC/StreamingAssets/unit.unity3d
+Dependencies: []

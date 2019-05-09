@@ -1,11 +1,10 @@
 ManifestFileVersion: 0
-CRC: 1530241111
+CRC: 2756698403
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: map.unity3d
-      Dependencies:
-        Dependency_0: unit.unity3d
+      Dependencies: {}
     Info_1:
       Name: config.unity3d
       Dependencies: {}

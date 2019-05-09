@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3293924952
+CRC: 161677881
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 476b1b77b9a7d3f6ea0ca4703932a774
+    Hash: bdb89bb1705721684bb94d2b22d338d7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9f234760192d370460b9a81a17881f85
@@ -37,9 +37,14 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Res/Models/Bingshuangjulong_001/Materials/Bingshuangjulong_001.controller
+- Assets/Res/Models/HuanCi/AnimationController/HuanciController.controller
+- Assets/Res/Models/HuanCi/Materials/Huanci_001.png
 - Assets/Res/Models/Bingshuangjulong_001/Bingshuangjulong_001.FBX
+- Assets/Res/Models/HuanCi/Animation/Run.anim
+- Assets/Res/Models/HuanCi/Huanci_001.FBX
 - Assets/Res/Units/BigDrango.prefab
 - Assets/Bundles/Unit/Unit.prefab
 - Assets/Res/Models/Bingshuangjulong_001/show.FBX
 - Assets/Res/Models/Bingshuangjulong_001/Materials/Bingshuangjulong_001.tga
+- Assets/Res/Units/HuanCi.prefab
 Dependencies: []
