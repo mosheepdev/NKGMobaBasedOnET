@@ -1,35 +1,40 @@
 ManifestFileVersion: 0
-CRC: 3101737170
+CRC: 3102800569
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: map.unity3d
-      Dependencies:
-        Dependency_0: unit.unity3d
+      Dependencies: {}
     Info_1:
-      Name: config.unity3d
-      Dependencies: {}
-    Info_2:
-      Name: code.unity3d
-      Dependencies: {}
-    Info_3:
-      Name: unit.unity3d
-      Dependencies: {}
-    Info_4:
-      Name: fuilogin_fui.unity3d
-      Dependencies: {}
-    Info_5:
       Name: fuilogin.unity3d
       Dependencies: {}
-    Info_6:
+    Info_2:
+      Name: unit.unity3d
+      Dependencies: {}
+    Info_3:
       Name: fuilobby.unity3d
       Dependencies: {}
-    Info_7:
+    Info_4:
+      Name: fuidialog.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: config.unity3d
+      Dependencies: {}
+    Info_6:
       Name: fuilobby_fui.unity3d
       Dependencies: {}
+    Info_7:
+      Name: fuilogin_fui.unity3d
+      Dependencies: {}
     Info_8:
-      Name: fuidialog.unity3d
+      Name: code.unity3d
       Dependencies: {}
     Info_9:
       Name: fuidialog_fui.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: fui5v5map.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: fui5v5map_fui.unity3d
       Dependencies: {}

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3267596176
+CRC: 1360723490
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 58119a5ccdd8c4d98a0643dfd58051e2
+    Hash: 9fa808efbdaf9d3e01d48178efb0ea29
   TypeTreeHash:
     serializedVersion: 2
-    Hash: faeaaa2c2a90a7d44c28a49a3e0e2779
+    Hash: 1550d415dfffdfa15f9b24cb80f40c59
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,37 +27,46 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 64
+- Class: 60
   Script: {instanceID: 0}
-- Class: 74
+- Class: 65
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
 - Class: 89
-  Script: {instanceID: 0}
-- Class: 90
-  Script: {instanceID: 0}
-- Class: 91
-  Script: {instanceID: 0}
-- Class: 95
   Script: {instanceID: 0}
 - Class: 104
   Script: {instanceID: 0}
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
   Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
   Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 517cb75bbd3f48049b0f21910919e50a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb6abbfdeb65e5748bed4ac86534e3a5, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 137
-  Script: {instanceID: 0}
 - Class: 157
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
   Script: {instanceID: 0}
 - Class: 258
   Script: {instanceID: 0}
 Assets:
 - Assets/Scenes/Map.unity
-Dependencies:
-- D:/Study/GameProject/NKGMobaBasedOnET/MKGMobaBasedOnET/Unity/../Release/PC/StreamingAssets/unit.unity3d
+Dependencies: []
