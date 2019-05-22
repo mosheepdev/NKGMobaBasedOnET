@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3102800569
+CRC: 3118709758
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -37,4 +37,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_11:
       Name: fui5v5map_fui.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: skillconfigs.unity3d
       Dependencies: {}
