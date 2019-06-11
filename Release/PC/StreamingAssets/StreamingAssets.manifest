@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3118709758
+CRC: 2925012513
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -40,4 +40,10 @@ AssetBundleManifest:
       Dependencies: {}
     Info_12:
       Name: skillconfigs.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: fuiheadbar.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: fuiheadbar_fui.unity3d
       Dependencies: {}
