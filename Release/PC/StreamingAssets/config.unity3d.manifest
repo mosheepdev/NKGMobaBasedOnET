@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3635252110
+CRC: 4139520123
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f39ad57459ca658f149220c365d9c91d
+    Hash: 24ce7294d03c55ffd66a4b5fc0e0be30
   TypeTreeHash:
     serializedVersion: 2
     Hash: baedefce1c3a59ef8a9442af500734c4
@@ -21,6 +21,7 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Res/Config/BuffConfig.txt
+- Assets/Res/Config/BehaviorTreeConfig.txt
 - Assets/Res/Config/UnitConfig.txt
 - Assets/Bundles/Independent/Config.prefab
 Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2150569138
+CRC: 1690871003
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 88da345b51efe8e46be21de6964ddcb8
+    Hash: 8c7c86f81645a2d1a7a0dbddcb0f91b2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9f234760192d370460b9a81a17881f85
@@ -36,5 +36,10 @@ ClassTypes:
 - Class: 137
   Script: {instanceID: 0}
 Assets:
+- Assets/Res/Units/NuoKe.prefab
+- Assets/Res/Models/Delris/Take 002.anim
+- Assets/Res/Models/Delris/Darius_Skin08.dae
+- Assets/Res/Models/Delris/Darius_Skin08_TX_CM.dds
+- Assets/Res/Models/Delris/New Animator Controller.controller
 - Assets/Bundles/Unit/Unit.prefab
 Dependencies: []
